@@ -173,7 +173,7 @@ body{
 .sun{
     height: 100px;
     width: 100px;
-    background-image: url(images/sun.png);
+    background-image: url(sun.png);
     background-position: center;
     background-size: cover;
     animation: rotate 5s linear  infinite;
@@ -185,3 +185,4 @@ body{
     }
 
 }
+
